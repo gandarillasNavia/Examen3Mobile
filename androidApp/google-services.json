@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "884352468988",
+    "firebase_url": "https://examen-kmp3-default-rtdb.firebaseio.com",
+    "project_id": "examen-kmp3",
+    "storage_bucket": "examen-kmp3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884352468988:android:83a4ee56982d95250ed479",
+        "android_client_info": {
+          "package_name": "org.ucb.appp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARaOeJV3F2Dt80moYXo-UQsheWtKKPew8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
